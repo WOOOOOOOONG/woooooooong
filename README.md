@@ -1,10 +1,6 @@
-### 임세웅 · Backend Engineer
-
-부동산 중개 플랫폼 **피터팬의 좋은방구하기**에서 결제·검색·외부 연동·성능 최적화를 담당하고 있습니다.
+### Backend Developer
 
 PHP/Laravel · Java/Spring Boot · Python/FastAPI · MySQL · OpenSearch · AWS
-
-👉 **[포트폴리오 상세 보기 →]([https://woooooooong.github.io](https://woooooooong.github.io/Portfolio/))**
 
 ---
 
